@@ -1,0 +1,9 @@
+[submodule "libre-fm-templates"]
+	path = libre-fm-templates
+	url = https://github.com/libre-fm/libre-fm-templates
+[submodule "gnu-fm"]
+	path = gnu-fm
+	url = https://github.com/libre-fm/gnu-fm
+[submodule "gnu-fm-changes"]
+	path = gnu-fm-changes
+	url = https://github.com/libre-fm/gnu-fm-changes
